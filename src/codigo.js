@@ -3,8 +3,6 @@ console.clear();
 alert("Bienvenidos");
 console.log("Adios");
 
-//
-
 //var textoSaludo = "Holas Mundo";
 
 //function saludar() {
