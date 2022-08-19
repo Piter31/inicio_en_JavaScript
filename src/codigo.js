@@ -2,7 +2,7 @@ console.clear();
 
 alert("Bienvenidos");
 console.log("Adios");
-
+console.log("vuelva prontos - apu de los simpson");
 //var textoSaludo = "Holas Mundo";
 
 //function saludar() {
